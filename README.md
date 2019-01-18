@@ -1,3 +1,3 @@
 # OpenMeta Repository
 
-The official home of OpenMeta and OpenInfo.
+The official home of OpenMeta and OpenInfo. 
